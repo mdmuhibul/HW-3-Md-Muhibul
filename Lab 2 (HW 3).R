@@ -2,7 +2,7 @@
 #Econ B2000, MA, ECONOMETRICS
 #Fall 2023
 #Lab 2
-#Md Muhibul Islam
+#Md Muhibul Islam; Member: Joel Rojas
 
 load("Household_Pulse_data_w57.RData")
 summary(Household_Pulse_data)
